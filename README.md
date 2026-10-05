@@ -408,5 +408,5 @@ This project is for academic purposes and is provided "as-is" without warranty.
 ---
 
 **Last Updated:** October 5, 2026  
-**Project Status:** Completed  
+**Project Status:** Progressing  
 **Contact:** [rajdipcollege@gmail.com   , wp-no:6290746315, univ-roll: 11700221035 , student-id: IT2021006 ]
