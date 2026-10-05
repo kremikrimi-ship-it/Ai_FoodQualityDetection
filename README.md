@@ -394,8 +394,11 @@ python scripts/calculate_inositol.py
 
 ## Acknowledgments
 
-This project was completed as part of the Bachelor of Technology program at [College Name]. We extend our sincere gratitude to our mentor, **Mr. Dipan Bandyopadhyay**, for his invaluable guidance and support throughout this research.
+This project was completed as part of the Bachelor of Technology program at [Rcciit]. We extend our sincere gratitude to our mentor, **Mr. Dipan Bandyopadhyay**, for his invaluable guidance and support throughout this research.
 
+**References:**
+research paper 1 : A Molecular-Imprinted Bipolymer Infused Capacitive Sensor for Inositol Detection in Fruits . link : https://ieeexplore.ieee.org/abstract/document/10225404
+research paper 2 : Towards the development of an integrated, user friendly, voltammetric electrode for the electrochemical sensing of food quality, link : https://www.sciencedirect.com/science/article/abs/pii/S0263224125031355
 ---
 
 ## License
@@ -406,4 +409,4 @@ This project is for academic purposes and is provided "as-is" without warranty.
 
 **Last Updated:** October 5, 2026  
 **Project Status:** Completed  
-**Contact:** [Your Email/Student ID]
+**Contact:** [rajdipcollege@gmail.com   , wp-no:6290746315, univ-roll: 11700221035 , student-id: IT2021006 ]
